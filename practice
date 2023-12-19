@@ -1,15 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
+// recursive
 
 // function factorial(n) {
 //   if (n === 0) {
@@ -22,8 +12,7 @@
 
 
 
-
-
+// closure
 
 function get() {
     let cnt = 0
